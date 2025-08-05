@@ -1,1 +1,1 @@
-langflow --pre --force-reinstall
+langflow --pre --force-reinstall #pip install langflow --pre --force-reinstall
