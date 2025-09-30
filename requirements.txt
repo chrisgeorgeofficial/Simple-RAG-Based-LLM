@@ -1,1 +1,12 @@
-langflow --pre --force-reinstall #pip install langflow --pre --force-reinstall
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+#ipykernel for jupyter notebook
+langchain-google-genai
+python-dotenv
+langchain-groq
